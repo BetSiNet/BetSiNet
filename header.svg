@@ -1,0 +1,30 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" width="100%" height="auto" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e5a8e" stop-opacity="1" />
+      <stop offset="100%" stop-color="#0d3b5c" stop-opacity="1" />
+    </linearGradient>
+
+    <linearGradient id="waveGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2a7db8" stop-opacity="1" />
+      <stop offset="100%" stop-color="#1a4d7a" stop-opacity="1" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bgGradient)" />
+
+  <path fill="url(#waveGradient)" opacity="0.95"
+        d="M0,110 C200,60 400,160 600,110 C800,60 1000,160 1200,110 L1200,300 L0,300 Z" />
+
+  <path fill="#2a7db8" opacity="0.7"
+        d="M0,130 C200,80 400,140 600,120 C800,100 1000,160 1200,130 L1200,300 L0,300 Z" />
+
+  <path fill="#3a8dd8" opacity="0.5"
+        d="M0,150 C200,100 400,160 600,130 C800,100 1000,170 1200,150 L1200,300 L0,300 Z" />
+
+  <text x="600" y="95" font-size="72" font-weight="bold" fill="white"
+        text-anchor="middle" font-family="Arial, Helvetica, sans-serif">SiNeth Beth</text>
+
+  <text x="600" y="140" font-size="28" fill="rgba(255,255,255,0.95)"
+        text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Full Stack Developer</text>
+</svg>
