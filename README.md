@@ -7,17 +7,17 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Vue.js+Developer;Node.js+Developer;Problem+Solver;Lifelong+Learner)](https://git.io/typing-svg)
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat&logo=web&logoColor=white)](https://yourportfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sineth-beth-637576378)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/your-facebook-username)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bethsineth7898@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat&logo=googlechrome&logoColor=white)](https://portfolio-sineth.vercel.app)
 </div>
 
 ---
 
 ## 💡 About Me
 
-I'm a passionate **Full Stack Developer** with expertise in building scalable and user-friendly web applications. With a strong foundation in modern JavaScript frameworks and backend technologies, I focus on creating seamless digital experiences that solve real-world problems. I love collaborating with teams, learning new technologies, and turning ideas into impactful solutions.
+I'm a passionate **Full Stack Developer** with hands-on experience in building web applications using modern technologies. Strong foundation in frontend and backend development, with a commitment to continuous learning and problem-solving. Awarded a scholarship from **the Ministry of Post and Telecommunications of Cambodia (MPTC)** and **the S.A Foundation** to pursue intensive training at **ANT Training Center**, where I strengthened my technical and collaborative skills.
 
 **Key Strengths:**
 - 🎨 Frontend Design & Development with modern frameworks
