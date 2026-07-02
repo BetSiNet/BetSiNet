@@ -15,13 +15,15 @@ on:
 
 jobs:
   generate:
+    permissions: 
+      contents: write # ចាំបាច់ត្រូវមានសិទ្ធិសរសេរ ដើម្បីដោះស្រាយបញ្ហា exit code 128
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
     steps:
-      # ជំហានទី ១: ទាញយក repository មកប្រើ
+      # ជំហានទី ១: ទាញយក repository មកប្រើ (ប្រើ v4)
       - name: checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       
       # ជំហានទី ២: បង្កើតរូបភាព snake
       - name: generate github-contribution-grid-snake.svg
@@ -31,9 +33,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # ជំហានទី ៣: ដាក់រូបភាពចូលក្នុង branch មួយឈ្មោះ output
+      # ជំហានទី ៣: ដាក់រូបភាពចូលក្នុង branch មួយឈ្មោះ output (ប្រើ v4)
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
