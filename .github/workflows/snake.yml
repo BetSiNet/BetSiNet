@@ -3,7 +3,7 @@ name: Snake Animation Automation
 on:
   schedule:
     # Run workflow automatically every day at midnight
-    - cron: '0 0 * * *'
+    - cron: "0 */24 * * *"
   workflow_dispatch:
 
 permissions:
