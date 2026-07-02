@@ -2,8 +2,8 @@
 
 <!-- Header Section -->
 <div align="center">
-  <h1>👋 Hi, I'm SiNeth Beth</h1>
-  <h3>🚀 Full Stack Developer | Building Digital Solutions</h3>
+  <!-- <h1>👋 Hi, I'm SiNeth Beth</h1> -->
+  <h3>🚀 Full Stack Developer | Building Modern Web Applications
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Vue.js+Developer;Node.js+Developer;Problem+Solver;Lifelong+Learner)](https://git.io/typing-svg)
   
