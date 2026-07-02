@@ -1,30 +1,52 @@
 <svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" width="100%" height="auto" preserveAspectRatio="xMidYMid meet">
   <defs>
     <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#1e5a8e" stop-opacity="1" />
-      <stop offset="100%" stop-color="#0d3b5c" stop-opacity="1" />
+      <stop offset="0%" style="stop-color:#1e5a8e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d3b5c;stop-opacity:1" />
     </linearGradient>
-
     <linearGradient id="waveGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#2a7db8" stop-opacity="1" />
-      <stop offset="100%" stop-color="#1a4d7a" stop-opacity="1" />
+      <stop offset="0%" style="stop-color:#2a7db8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a4d7a;stop-opacity:1" />
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="300" fill="url(#bgGradient)" />
+  <rect width="1200" height="300" fill="url(#bgGradient)"/>
 
-  <path fill="url(#waveGradient)" opacity="0.95"
-        d="M0,110 C200,60 400,160 600,110 C800,60 1000,160 1200,110 L1200,300 L0,300 Z" />
+  <path fill="url(#waveGradient)" opacity="1">
+    <animate attributeName="d" 
+      values="M 0,100 Q 300,50 600,100 T 1200,100 L 1200,300 L 0,300 Z;
+              M 0,80 Q 300,30 600,80 T 1200,80 L 1200,300 L 0,300 Z;
+              M 0,100 Q 300,50 600,100 T 1200,100 L 1200,300 L 0,300 Z;
+              M 0,120 Q 300,70 600,120 T 1200,120 L 1200,300 L 0,300 Z;
+              M 0,100 Q 300,50 600,100 T 1200,100 L 1200,300 L 0,300 Z"
+      dur="8s" repeatCount="indefinite" />
+  </path>
 
-  <path fill="#2a7db8" opacity="0.7"
-        d="M0,130 C200,80 400,140 600,120 C800,100 1000,160 1200,130 L1200,300 L0,300 Z" />
+  <path fill="#2a7db8" opacity="0.7">
+    <animate attributeName="d" 
+      values="M 0,120 Q 300,70 600,120 T 1200,120 L 1200,300 L 0,300 Z;
+              M 0,100 Q 300,50 600,100 T 1200,100 L 1200,300 L 0,300 Z;
+              M 0,80 Q 300,30 600,80 T 1200,80 L 1200,300 L 0,300 Z;
+              M 0,100 Q 300,50 600,100 T 1200,100 L 1200,300 L 0,300 Z;
+              M 0,120 Q 300,70 600,120 T 1200,120 L 1200,300 L 0,300 Z"
+      dur="8s" begin="1s" repeatCount="indefinite" />
+  </path>
 
-  <path fill="#3a8dd8" opacity="0.5"
-        d="M0,150 C200,100 400,160 600,130 C800,100 1000,170 1200,150 L1200,300 L0,300 Z" />
+  <path fill="#3a8dd8" opacity="0.5">
+    <animate attributeName="d" 
+      values="M 0,110 Q 300,60 600,110 T 1200,110 L 1200,300 L 0,300 Z;
+              M 0,130 Q 300,80 600,130 T 1200,130 L 1200,300 L 0,300 Z;
+              M 0,110 Q 300,60 600,110 T 1200,110 L 1200,300 L 0,300 Z;
+              M 0,90 Q 300,40 600,90 T 1200,90 L 1200,300 L 0,300 Z;
+              M 0,110 Q 300,60 600,110 T 1200,110 L 1200,300 L 0,300 Z"
+      dur="8s" begin="2s" repeatCount="indefinite" />
+  </path>
 
-  <text x="600" y="95" font-size="72" font-weight="bold" fill="white"
-        text-anchor="middle" font-family="Arial, Helvetica, sans-serif">SiNeth Beth</text>
+  <text x="600" y="140" font-size="72" font-weight="bold" fill="white"
+        text-anchor="middle" dominant-baseline="middle"
+        font-family="Arial, Helvetica, sans-serif">SiNeth Beth</text>
 
-  <text x="600" y="140" font-size="28" fill="rgba(255,255,255,0.95)"
-        text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Full Stack Developer</text>
+  <text x="600" y="205" font-size="28" fill="rgba(255,255,255,0.95)"
+        text-anchor="middle" dominant-baseline="middle"
+        font-family="Arial, Helvetica, sans-serif">Full Stack Developer</text>
 </svg>
