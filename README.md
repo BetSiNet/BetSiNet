@@ -57,14 +57,13 @@ I'm a passionate **Full Stack Developer** with hands-on experience in building w
 
 ## 📌 Featured Projects
 
-### 🏆 Project 1: Aluminet
+### 🏆 Project 1: Aluminet [ ANT End Course Node.js Express.js ]
 
 <table>
 <tr>
 <td width="70%">
 
-**Goal:**
-Build an intelligent alumni networking platform that connects graduates, facilitates knowledge sharing, and creates mentorship opportunities within the alumni community.
+**Goal:** Develop a digital alumni management system that streamlines the management of alumni records, academic results, scholarships, classes, and certificate generation, while improving efficiency, data accuracy, security, and reducing manual administrative work.
 
 **Tech Stack:**
 - Frontend: Vue.js 3, Vuex, Axios
@@ -73,6 +72,7 @@ Build an intelligent alumni networking platform that connects graduates, facilit
 - Authentication: JWT
 
 **Features:**
+
 ✨ Alumni profile management  
 ✨ Network discovery & connections  
 ✨ Mentorship matching system  
@@ -97,7 +97,7 @@ Full Stack Developer - Architected the entire application, designed database sch
 
 ---
 
-### 🏠 Project 2: Quick Rent
+### 🏠 Project 2: Quick Rent [ ANT End Course JavaScript Vue.js ]
 
 <table>
 <tr>
