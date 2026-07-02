@@ -142,17 +142,9 @@ Full Stack Developer - Led development of core features, implemented payment gat
 
 <div align="center">
 
-### 📈 GitHub Stats
-
-![SiNeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
 ### 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true)
-
-### 📚 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BetSiNet&theme=radical&hide_border=true)
 
 </div>
 
@@ -162,7 +154,7 @@ Full Stack Developer - Led development of core features, implemented payment gat
 
 <div align="center">
 
-![snake gif](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/BetSiNet/BetSiNet/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
