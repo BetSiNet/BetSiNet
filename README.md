@@ -8,7 +8,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Vue.js+Developer;Node.js+Developer;Problem+Solver;Lifelong+Learner)](https://git.io/typing-svg)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sineth-beth-637576378)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/your-facebook-username)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/sinet.bet.7)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bethsineth7898@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat&logo=googlechrome&logoColor=white)](https://portfolio-sineth.vercel.app)
 </div>
@@ -66,7 +66,7 @@ I'm a passionate **Full Stack Developer** with hands-on experience in building w
 **Goal:** Develop a digital alumni management system that streamlines the management of alumni records, academic results, scholarships, classes, and certificate generation, while improving efficiency, data accuracy, security, and reducing manual administrative work.
 
 **Tech Stack:**
-- Frontend: Vue.js 3, Vuex, Axios
+- Frontend: Vue.js 3, Bootstrap, Primevue, Axios
 - Backend: Node.js, Express.js
 - Database: MySQL
 - Authentication: JWT
@@ -81,7 +81,7 @@ I'm a passionate **Full Stack Developer** with hands-on experience in building w
 ✨ Real-time notifications  
 
 **My Role:**
-Full Stack Developer - Architected the entire application, designed database schema, developed RESTful APIs, and built responsive Vue.js components.
+Full Stack Developer, designed database schema with teams, developed RESTful APIs part Student Dashboard, and built responsive Vue.js components, structure layout.
 
 </td>
 <td width="30%">
@@ -113,6 +113,7 @@ Create a modern property rental platform that streamlines the process of finding
 - Payment Integration: Stripe API
 
 **Features:**
+
 ✨ Advanced property search & filters  
 ✨ Property listing with image upload  
 ✨ Booking & reservation system  
@@ -162,7 +163,7 @@ Full Stack Developer - Led development of core features, implemented payment gat
 
 ## 🌱 Currently Learning
 
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) Advanced React Patterns
+- ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=flat&logo=nuxt&logoColor=00DC82) Advanced Nuxt.js Patterns
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) TypeScript Best Practices
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) NoSQL Databases
 - 🏗️ System Design & Architecture
@@ -173,7 +174,7 @@ Full Stack Developer - Led development of core features, implemented payment gat
 
 <div align="center">
 
-![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=radical&hide_border=true&hide_title=true)
+![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=BetSiNet&theme=radical&hide_border=true&hide_title=true)
 
 </div>
 
@@ -183,10 +184,10 @@ Full Stack Developer - Led development of core features, implemented payment gat
 
 I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out!
 
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
-- 🌐 **Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
-- 📧 **Email:** your.email@gmail.com
-- 💬 **Discord:** Your Discord Tag
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sineth-beth-637576378)
+- 🌐 **Portfolio:** [Portfolio](https://portfolio-sineth.vercel.app)
+- 💬 **Facebook:** [Facebook](https://web.facebook.com/sinet.bet.7)
+- 📧 **Email:** mailto:bethsineth7898@gmail.com
 
 ---
 
