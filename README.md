@@ -87,7 +87,10 @@ Full Stack Developer.
 <td width="30%">
 
 <img src="assets/Alumni.png" alt="My Photo" width="100%" />
-![Project Thumbnail](https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github)
+
+<a href="https://github.com/BetSiNet/vue_final-project_quick-rent.git" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github" alt="View Project">
+</a>
 
 **Video Demo:**
 [Link to short video](https://youtube.com)
@@ -124,7 +127,15 @@ Front end Developer.
 <td width="30%">
 
 <img src="assets/QuickRent.png" alt="QuickRent" width="100%" />
-![Project Thumbnail](https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github)
+
+<div align="center">
+  <a href="https://github.com/BetSiNet/vue_final-project_quick-rent.git" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github" alt="View Project">
+  </a>
+  <a href="https://vue-final-project-quick-rent.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+  </a>
+</div>
 
 **Video Demo:**
 [Link to short video](https://youtu.be/7B55RbpYM60?si=XgUu_lqsgDhy-bKE)
