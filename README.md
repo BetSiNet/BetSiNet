@@ -86,6 +86,7 @@ Full Stack Developer.
 </td>
 <td width="30%">
 
+<img src="assets/Alumni.png" alt="My Photo" width="100%" />
 ![Project Thumbnail](https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github)
 
 **Video Demo:**
@@ -122,10 +123,11 @@ Front end Developer.
 </td>
 <td width="30%">
 
+<img src="assets/QuickRent.png" alt="QuickRent" width="100%" />
 ![Project Thumbnail](https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github)
 
 **Video Demo:**
-[Link to short video](https://youtube.com)
+[Link to short video](https://youtu.be/7B55RbpYM60?si=XgUu_lqsgDhy-bKE)
 
 </td>
 </tr>
