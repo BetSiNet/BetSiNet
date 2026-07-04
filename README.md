@@ -63,25 +63,25 @@ I'm a passionate **Full Stack Developer** with hands-on experience in building w
 <tr>
 <td width="70%">
 
-**Goal:** Develop a digital alumni management system that streamlines the management of alumni records, academic results, scholarships, classes, and certificate generation, while improving efficiency, data accuracy, security, and reducing manual administrative work.
+**🎯 Goal:** Develop a digital alumni management system that streamlines the management of alumni records, academic results, scholarships, classes, and certificate generation, while improving efficiency, data accuracy, security, and reducing manual administrative work.
 
-**Tech Stack:**
+**⚙️ Tech Stack:**
 - Frontend: Vue.js 3, Bootstrap, Primevue, Axios
 - Backend: Node.js, Express.js
 - Database: MySQL
 - Authentication: JWT
 
-**Features:**
+**🚩 My Role:**
+Full Stack Developer.
 
-✨ Alumni profile management  
-✨ Network discovery & connections  
-✨ Mentorship matching system  
-✨ Event organization & RSVPs  
-✨ Job board for opportunities  
-✨ Real-time notifications  
+**✅ Responsibility:**
 
-**My Role:**
-Full Stack Developer, designed database schema with teams, developed RESTful APIs part Student Dashboard, and built responsive Vue.js components, structure layout.
+* ✨ Collaborated with team members to design and implement the MySQL database schema.
+* ✨ Developed RESTful APIs using Node.js and Express.js for the Student Dashboard module.
+* ✨ Built responsive and reusable UI components using Vue.js.
+* ✨ Integrated frontend applications with backend APIs and managed data flow.
+* ✨ **Implemented secure profile photo storage and image optimization using Cloudinary.**
+* ✨ Participated in the software development lifecycle, including planning, development, and testing.
 
 </td>
 <td width="30%">
@@ -103,27 +103,21 @@ Full Stack Developer, designed database schema with teams, developed RESTful API
 <tr>
 <td width="70%">
 
-**Goal:**
+**🎯 Goal:**
 Create a modern property rental platform that streamlines the process of finding, listing, and managing rental properties with an intuitive user experience.
 
-**Tech Stack:**
-- Frontend: Vue.js 3, Vue Router, Pinia
-- Backend: Node.js, Express.js, Multer
-- Database: MySQL
-- Payment Integration: Stripe API
+**⚙️ Tech Stack:** Vue.js 3, JavaScript, Tailwind CSS, REST API Integration.
 
-**Features:**
+**🚩 My Role:**
+Front end Developer.
 
-✨ Advanced property search & filters  
-✨ Property listing with image upload  
-✨ Booking & reservation system  
-✨ Payment processing integration  
-✨ Review & rating system  
-✨ Landlord dashboard  
-✨ Tenant management tools  
+**✅ Responsibility:**
 
-**My Role:**
-Full Stack Developer - Led development of core features, implemented payment gateway integration, optimized database queries, and created responsive mobile-friendly UI.
+* ✨ Developed the Landing Page, Rent Page, Wishlist Page, and Room Detail Page using **Vue.js**.
+* ✨ Integrated frontend components with backend APIs to display and manage dynamic data.
+* ✨ Built responsive and user-friendly interfaces to ensure a seamless user experience across devices.
+* ✨ Collaborated with team members to implement features and maintain application consistency.
+* ✨ Structured and maintained reusable components for better scalability and maintainability.
 
 </td>
 <td width="30%">
@@ -188,6 +182,8 @@ I'm always interested in collaborating on exciting projects and connecting with 
 - 🌐 **Portfolio:** [Portfolio](https://portfolio-sineth.vercel.app)
 - 💬 **Facebook:** [Facebook](https://web.facebook.com/sinet.bet.7)
 - 📧 **Email:** mailto:bethsineth7898@gmail.com
+- 📞 **Phone:** +855-1560-7393
+
 
 ---
 
