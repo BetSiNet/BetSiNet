@@ -81,6 +81,7 @@ Full Stack Developer.
 * ✨ Built responsive and reusable UI components using Vue.js.
 * ✨ Integrated frontend applications with backend APIs and managed data flow.
 * ✨ **Implemented secure profile photo storage and image optimization using Cloudinary.**
+* ✨ Implemented loading states and data fetching indicators to enhance user experience during asynchronous operations.
 * ✨ Participated in the software development lifecycle, including planning, development, and testing.
 
 </td>
@@ -88,12 +89,10 @@ Full Stack Developer.
 
 <img src="assets/Alumni.png" alt="My Photo" width="100%" />
 
-<a href="https://github.com/BetSiNet/vue_final-project_quick-rent.git" target="_blank">
+<!-- <a href="https://github.com/BetSiNet/vue_final-project_quick-rent.git" target="_blank">
   <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github" alt="View Project">
-</a>
-
-**Video Demo:**
-[Link to short video](https://youtube.com)
+</a> -->
+**Please wait until the presentation has been completed.**
 
 </td>
 </tr>
@@ -108,7 +107,7 @@ Full Stack Developer.
 <td width="70%">
 
 **🎯 Goal:**
-Create a modern property rental platform that streamlines the process of finding, listing, and managing rental properties with an intuitive user experience.
+Develop a modern rental platform that helps students and working professionals easily find affordable, safe, and convenient rental properties located near schools, universities, and workplaces.
 
 **⚙️ Tech Stack:** Vue.js 3, JavaScript, Tailwind CSS, REST API Integration.
 
