@@ -17,7 +17,7 @@
 
 ## 💡 About Me
 
-I'm a passionate **Full Stack Developer** with hands-on experience in building web applications using modern technologies. Strong foundation in frontend and backend development, with a commitment to continuous learning and problem-solving. Awarded a scholarship from **the Ministry of Post and Telecommunications of Cambodia (MPTC)** and **the S.A Foundation** to pursue intensive training at **ANT Training Center**, where I strengthened my technical and collaborative skills.
+I'm a passionate **Full Stack Developer** with hands-on experience in building web applications using modern technologies. Strong foundation in frontend and backend development, with a commitment to continuous learning and problem-solving. Awarded a scholarship from **Ministry of Post and Telecommunications and CBRD Fund** to pursue intensive training at **ANT Training Center**, where I strengthened my technical and collaborative skills.
 
 **Key Strengths:**
 - 🎨 Frontend Design & Development with modern frameworks
