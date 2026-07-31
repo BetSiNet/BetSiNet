@@ -17,7 +17,11 @@
 
 ## 💡 About Me
 
-I'm a passionate **Full Stack Developer** with hands-on experience in building web applications using modern technologies. Strong foundation in frontend and backend development, with a commitment to continuous learning and problem-solving. Awarded a scholarship from **Ministry of Post and Telecommunications and CBRD Fund** to pursue intensive training at **ANT Training Center**, where I strengthened my technical and collaborative skills.
+Hello, my name is **Beth SiNeth**. I am a final-year Computer Science student at the **Royal University of Phnom Penh**, and I am passionate about Web Development.
+
+Throughout my studies and my training at the **ANT Training Center​** that Awarded a scholarship from **Ministry of Post and Telecommunications and CBRD Fund**, I have built several web application projects, including AlumniNet, Quick Rent and else. In these projects, I worked on backend API development, frontend implementation, database integration, and building responsive user interfaces. These experiences strengthened my skills in Node.js, Express.js, Vue.js, MySQL, and RESTful APIs.
+
+I enjoy learning new technologies and solving real-world problems through software development.
 
 **Key Strengths:**
 - 🎨 Frontend Design & Development with modern frameworks
@@ -170,9 +174,8 @@ Front end Developer.
 ## 🌱 Currently Learning
 
 - ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=flat&logo=nuxt&logoColor=00DC82) Advanced Nuxt.js Patterns
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) TypeScript Best Practices
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) NoSQL Databases
-- 🏗️ System Design & Architecture
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) PostgreSQL Database
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) Spring Boot
 
 ---
 
